@@ -1,5 +1,3 @@
-Handling-Imbalanced-Dataset
-
 Software Defect Prediction Data
 
 Goal : Predict software defect
@@ -47,11 +45,19 @@ Objective:
 
 Use Imbalanced data handling techniques
 Make prediction model
+
 Key Points:
+
 Used Data Pipelines for data pre-processing
+
 Used ROC-AUC as scoring metrics
+
 Used different technique to handle imbalanced dataset
+
 Used Cost Sensitive Techniques
+
 Used Data Sampling Techniques
+
 Used Grid Search to tune hyperparameter of the ML models
+
 Used corss validation score to decide best model for the dataset
